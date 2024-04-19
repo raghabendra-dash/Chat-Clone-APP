@@ -38,6 +38,6 @@ Real-Time Chat is powered by Socket.IO. is a web application that allows multipl
 
  > $ node server.js
 
-**Note- App should now be running on localhost:8080**
+**Note- App should now be running on (https://localhost:8080/)**
 
                
