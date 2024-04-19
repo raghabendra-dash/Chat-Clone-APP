@@ -4,10 +4,10 @@ Real-Time Chat is powered by Socket.IO. is a web application that allows multipl
 
 ## Features:
 
-1) User Authentication:   Users can join the chat room by providing a username.
-2) Real-Time Messaging:   Messages are sent and received in real time using Socket.io.
-3) User Updates:   Updates about new user joining and existing user leaving are displayed in the chat.
-4) Simple Interface:   The interface provides an easy-to-use chat experience.
+1) **User Authentication:**   *_Users can join the chat room by providing a username._*
+2) **Real-Time Messaging:**  *_Messages are sent and received in real time using Socket.io._*
+3) **User Updates:**    *_Updates about new user joining and existing user leaving are displayed in the chat._*
+4) **Simple Interface:**   *_The interface provides an easy-to-use chat experience._*
 
 
 ## Technologies Used:
